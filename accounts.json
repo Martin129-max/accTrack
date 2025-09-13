@@ -1,0 +1,172 @@
+[
+    {
+        "username": "pirate",
+        "status": "Available",
+        "user": "",
+        "dailies": "Not Done",
+        "ultra_bosses": {
+            "Darkon": "Not Done",
+            "Drago": "Not Done",
+            "Nulgath": "Not Done",
+            "Drakath": "Not Done",
+            "Tyndarius": "Not Done",
+            "Exaltia": "Not Done",
+            "Dage": "Not Done",
+            "Malgor": "Not Done",
+            "Gramiel": "Not Done"
+        }
+    },
+    {
+        "username": "enemy",
+        "status": "In Use",
+        "user": "hnd414",
+        "dailies": "Not Done",
+        "ultra_bosses": {
+            "Darkon": "Not Done",
+            "Drago": "Not Done",
+            "Nulgath": "Not Done",
+            "Drakath": "Not Done",
+            "Tyndarius": "Not Done",
+            "Exaltia": "Not Done",
+            "Dage": "Not Done",
+            "Malgor": "Not Done",
+            "Gramiel": "Not Done"
+        }
+    },
+    {
+        "username": "zhang",
+        "status": "Available",
+        "user": "",
+        "dailies": "Not Done",
+        "ultra_bosses": {
+            "Darkon": "Not Done",
+            "Drago": "Not Done",
+            "Nulgath": "Not Done",
+            "Drakath": "Not Done",
+            "Tyndarius": "Not Done",
+            "Exaltia": "Not Done",
+            "Dage": "Not Done",
+            "Malgor": "Not Done",
+            "Gramiel": "Not Done"
+        }
+    },
+    {
+        "username": "kalagot",
+        "status": "In Use",
+        "user": "hnd414",
+        "dailies": "Not Done",
+        "ultra_bosses": {
+            "Darkon": "Not Done",
+            "Drago": "Not Done",
+            "Nulgath": "Not Done",
+            "Drakath": "Not Done",
+            "Tyndarius": "Not Done",
+            "Exaltia": "Not Done",
+            "Dage": "Not Done",
+            "Malgor": "Not Done",
+            "Gramiel": "Not Done"
+        }
+    },
+    {
+        "username": "improving",
+        "status": "Available",
+        "user": "",
+        "dailies": "Not Done",
+        "ultra_bosses": {
+            "Darkon": "Not Done",
+            "Drago": "Not Done",
+            "Nulgath": "Not Done",
+            "Drakath": "Not Done",
+            "Tyndarius": "Not Done",
+            "Exaltia": "Not Done",
+            "Dage": "Not Done",
+            "Malgor": "Not Done",
+            "Gramiel": "Not Done"
+        }
+    },
+    {
+        "username": "pain",
+        "status": "Available",
+        "user": "",
+        "dailies": "Not Done",
+        "ultra_bosses": {
+            "Darkon": "Not Done",
+            "Drago": "Not Done",
+            "Nulgath": "Not Done",
+            "Drakath": "Not Done",
+            "Tyndarius": "Not Done",
+            "Exaltia": "Not Done",
+            "Dage": "Not Done",
+            "Malgor": "Not Done",
+            "Gramiel": "Not Done"
+        }
+    },
+    {
+        "username": "tekken",
+        "status": "In Use",
+        "user": "hnd414",
+        "dailies": "Done",
+        "ultra_bosses": {
+            "Darkon": "Done",
+            "Drago": "Not Done",
+            "Nulgath": "Not Done",
+            "Drakath": "Done",
+            "Tyndarius": "Done",
+            "Exaltia": "Done",
+            "Dage": "Not Done",
+            "Malgor": "Not Done",
+            "Gramiel": "Not Done"
+        }
+    },
+    {
+        "username": "raviel",
+        "status": "In Use",
+        "user": "hnd414",
+        "dailies": "Done",
+        "ultra_bosses": {
+            "Darkon": "Done",
+            "Drago": "Not Done",
+            "Nulgath": "Not Done",
+            "Drakath": "Done",
+            "Tyndarius": "Done",
+            "Exaltia": "Done",
+            "Dage": "Not Done",
+            "Malgor": "Not Done",
+            "Gramiel": "Not Done"
+        }
+    },
+    {
+        "username": "blue",
+        "status": "In Use",
+        "user": "hnd414",
+        "dailies": "Done",
+        "ultra_bosses": {
+            "Darkon": "Done",
+            "Drago": "Not Done",
+            "Nulgath": "Not Done",
+            "Drakath": "Done",
+            "Tyndarius": "Not Done",
+            "Exaltia": "Done",
+            "Dage": "Not Done",
+            "Malgor": "Not Done",
+            "Gramiel": "Not Done"
+        }
+    },
+    {
+        "username": "zaiko",
+        "status": "In Use",
+        "user": "hnd414",
+        "dailies": "Done",
+        "ultra_bosses": {
+            "Darkon": "Done",
+            "Drago": "Not Done",
+            "Nulgath": "Not Done",
+            "Drakath": "Done",
+            "Tyndarius": "Not Done",
+            "Exaltia": "Done",
+            "Dage": "Not Done",
+            "Malgor": "Not Done",
+            "Gramiel": "Not Done"
+        }
+    }
+]
